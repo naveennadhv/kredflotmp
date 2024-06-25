@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="59"
+   height="25"
+   viewBox="0 0 59 25"
+   fill="#FFFFFF"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffff14"
+     showguides="true"
+     inkscape:zoom="10.516949"
+     inkscape:cx="32.376309"
+     inkscape:cy="2.3295729"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <sodipodi:guide
+       position="36.037067,12.543915"
+       orientation="0,1"
+       id="guide1"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <text
+     xml:space="preserve"
+     style="font-size:21.6842px;line-height:0px;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0.0650523px;word-spacing:2.08165px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.59506"
+     x="34.604733"
+     y="17.626204"
+     id="text1"
+     transform="scale(0.83037767,1.2042713)"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       x="34.637257"
+       y="17.626204"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;letter-spacing:0.0650523px;word-spacing:2.08165px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.59506"
+       dx="0.95138979">KredFlo</tspan></text>
+</svg>
